@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hi 
+I'm Sam Williams. I work for Mott MacDonald as a Senior Civil Engineer in the water sector. I got back into coding in 2020 by learning some Python in my spare time having not done any coding since some Matlab in university in 2007. I've quickly got to the point where my Python knowledge is useful in work.  
+I've started up a coding club in [MMBC](https://www.mottmacbentley.co.uk/mmb) which is a design and build division (or region) within MM primarily delivering projects for UK water companies. The coding club aims to   
+* promote coding solutions where they're useful
+* create a network where we can help each other out
+* share useful scripts etc  
+The club is not only for Python but will aim to promote  
+* VBA
+* Dynamo
+* MS Power platform
 <!--
 **sam-williams-MMBC/sam-williams-MMBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
